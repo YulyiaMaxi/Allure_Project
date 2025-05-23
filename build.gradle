@@ -23,7 +23,7 @@ dependencies {
     testImplementation("io.qameta.allure:allure-rest-assured:2.12.0")
     testImplementation("io.qameta.allure:allure-selenide:2.12.0")
     testImplementation('io.github.bonigarcia:webdrivermanager:6.1.0')
-    testImplementation("com.codeborne:selenide:6.15.0")
+    testImplementation("com.codeborne:selenide:7.8.1")
 }
 
 test {
